@@ -2,4 +2,4 @@
 
 Introduction to Elliptic Curve Cryptography (Italian)
 
-Source code (java) of the paper available at [https://github.com/GaspareG/EccLib]
+Source code (java) of the paper available at [GaspareG/EccLib](https://github.com/GaspareG/EccLib)
